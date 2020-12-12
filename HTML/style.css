@@ -1,41 +1,37 @@
 body{
-    background:darkgray;
+    background:whitesmoke;
 
 }
-#title, .Topicos,.Pos_Topicos{
+#title, .Topicos, .post_title {
     color: black;
 }
 
-#title{
-    margin-left: 10px;
+#title {
+    margin-left: 0;
 }
 
-.Pos_Topicos{
+.post_title {
     font-size: 16px;
     font-style: italic;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 .Topicos {
-    background:darkgrey;
-    padding: 5px;
-    border: 3px solid #000000;
-    margin-left: 10px;
+    background:white;
+    padding: 15px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 5px;
 }
-header img{
-    margin-left: 10px;
-}
-.texto{
+.texto {
     text-align:justify;
+    margin: 0;
+    margin-bottom: 15px;
 }
 
-.subtitle{
-    margin-left: 10px;
+.foto {
+    margin-bottom: 15px;
 }
-
-.link_1{
-    margin-left: 0px;
-}
-
-.link_2{
-    margin-left: 0px;
+.minha_foto{
+    border-radius: 50%;
+    border: 1px solid black;
 }

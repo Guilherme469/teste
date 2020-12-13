@@ -119,10 +119,10 @@ body{
 }
 
 .app-download:nth-child(1) {
-    background-image: url("applebuttom.png");
+    background-image: url("./img/applebuttom.png");
 }
 
 .app-download:nth-child(2) {
-    background-image: url("appbuttom.png");
+    background-image: url("./img/appbuttom.png");
 }
 

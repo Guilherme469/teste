@@ -1,5 +1,8 @@
 body{
     background:whitesmoke;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
 
 }
 #title, .Topicos, .post_title {
@@ -8,6 +11,8 @@ body{
 
 #title {
     margin-left: 0;
+    font-size: 40px;
+    text-transform: uppercase;
 }
 
 .post_title {
@@ -26,12 +31,24 @@ body{
     text-align:justify;
     margin: 0;
     margin-bottom: 15px;
+    text-transform: capitalize;
 }
 
 .foto {
     margin-bottom: 15px;
+    width: 100%;
 }
 .minha_foto{
     border-radius: 50%;
     border: 1px solid black;
+}
+
+.list {
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
 }

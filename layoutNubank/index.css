@@ -1,0 +1,251 @@
+#sectionone {
+  background: #8a05be;
+  width: 100%;
+  padding: 2rem 0 15rem;
+}
+
+body {
+  margin: 0;
+}
+
+#sectiontwo {
+  background: #ffff;
+  width: 100%;
+  padding: 2rem 0 13rem;
+}
+
+#sectionthree {
+  background: whitesmoke;
+  width: 100%;
+  padding: 2rem 0 15rem;
+}
+
+#sectionfour {
+  background: white;
+  width: 100%;
+  padding: 2rem 0 9.9rem;
+}
+
+#sectionfive {
+  background-color: rgb(93, 1, 133);
+  width: 100%;
+  padding: 2rem 0 14.4rem;
+}
+
+.pix {
+  color: white;
+  font-size: 3rem;
+  margin-left: 3rem;
+  margin-top: 7rem;
+  font-family: "Roboto";
+  font-weight: 500;
+}
+
+.saiba {
+  color: white;
+  margin-left: 3rem;
+  margin-top: -25px;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+
+.formulario {
+  width: 330px;
+  height: 302px;
+  border: 5px solid white;
+  padding: 10px 20px;
+  border-radius: 1rem;
+  background: white;
+  float: right;
+  margin-top: -300px;
+  margin-right: 3rem;
+}
+
+.frame {
+  vertical-align: middle;
+}
+
+.peca {
+  margin-top: 20px;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 28px;
+}
+
+.digite {
+  width: 280px;
+  height: 30px;
+  border: 1px solid none;
+  padding: 10px 20px;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 1rem;
+  margin-top: 50px;
+  font-family: "Roboto";
+  font-weight: 500;
+  margin-left: -1rem;
+  color: grey;
+  font-size: 1rem;
+}
+
+.continuar {
+  width: 300px;
+  height: 30px;
+  border: 5px solid none;
+  padding: 10px 20px;
+  justify-content: center;
+  align-items: center;
+  padding: 0.75rem;
+  border-radius: 2rem;
+  background: rgba(17, 17, 17, 0.1);
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 21.6px;
+  color: gray;
+  margin-top: 2rem;
+}
+
+.frame2 {
+  vertical-align: middle;
+  margin-left: 12rem;
+  color: rgba(17, 17, 17, 0.1);
+}
+
+.traga {
+  color: black;
+  font-size: 3rem;
+  margin-left: 9rem;
+  margin-top: 7rem;
+  font-family: "Roboto";
+  font-weight: 500;
+}
+
+.confira {
+  color: #8a05be;
+  margin-left: 3rem;
+  margin-top: -25px;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 1.2rem;
+  margin-left: 9rem;
+}
+
+.frame3 {
+  vertical-align: middle;
+  margin-left: 0.5rem;
+}
+
+.img1 {
+  float: right;
+  margin-right: 8rem;
+  margin-top: -22rem;
+}
+
+.conta {
+  color: #8a05be;
+  font-size: 3rem;
+  margin-left: 5rem;
+  margin-top: 7rem;
+  font-family: "Roboto";
+  font-weight: 500;
+}
+
+.digital {
+  color: black;
+  font-size: 3rem;
+  margin-left: 5rem;
+  margin-top: -3rem;
+  font-family: "Roboto";
+  font-weight: 500;
+}
+
+.segura {
+  color: #8a05be;
+  margin-left: 3rem;
+  margin-top: -25px;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 1.2rem;
+  margin-left: 5rem;
+}
+
+.img2 {
+  float: right;
+  margin-right: 8rem;
+  margin-top: -26rem;
+}
+
+.cartao {
+  color: #8a05be;
+  font-size: 3rem;
+  margin-left: 5rem;
+  margin-top: 7rem;
+  font-family: "Roboto";
+  font-weight: 500;
+}
+
+.pode {
+  color: black;
+  font-size: 3rem;
+  margin-left: 5rem;
+  margin-top: -3rem;
+  font-family: "Roboto";
+  font-weight: 500;
+}
+
+.mais {
+  color: #8a05be;
+  margin-left: 3rem;
+  margin-top: -25px;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 1.2rem;
+  margin-left: 5rem;
+}
+
+.img3 {
+  float: right;
+  margin-right: 8rem;
+  margin-top: -29rem;
+}
+
+.frame4 {
+  vertical-align: middle;
+}
+
+.rewards {
+  color: #c093fb;
+  font-size: 3rem;
+  margin-left: 5rem;
+  margin-top: 7rem;
+  font-family: "Roboto";
+  font-weight: 500;
+}
+
+.programa {
+  color: white;
+  font-size: 3rem;
+  margin-left: 5rem;
+  margin-top: -3rem;
+  font-family: "Roboto";
+  font-weight: 500;
+}
+
+.saibamais {
+  color: white;
+  margin-left: 3rem;
+  margin-top: -25px;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 1.2rem;
+  margin-left: 5rem;
+}
+
+.img4 {
+  float: right;
+  margin-right: 5rem;
+  margin-top: -24rem;
+}

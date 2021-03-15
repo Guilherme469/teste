@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #f0f2f5;
+}
+h2 {
+  color: #1877f2;
+  font-family: "Roboto";
+  font-size: 3rem;
+  font-weight: 900;
+}
+p {
+  color: black;
+  font-family: "Roboto";
+  font-size: 1.7rem;
+  font-weight: 400;
+  margin-top: 0.5rem;
+}
+
+#one {
+  float: left;
+  margin-left: 12rem;
+  margin-top: 12rem;
+}
+
+#two {
+  width: 410px;
+  height: 350px;
+  border: 2px solid #d5d7db;
+  padding: 10px;
+  float: right;
+  margin-right: 12rem;
+  margin-top: 8rem;
+  border-radius: 0.5rem;
+  background: white;
+  opacity: 0.6;
+}
+
+input {
+  border: 1px solid #d5d7db;
+  border-radius: 0.3rem;
+  padding: 1rem;
+  width: 97%;
+  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.entrar {
+  border: 1px solid #f0f2f5;
+  border-radius: 0.3rem;
+  padding: 1rem;
+  width: 97%;
+  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
+  margin-top: 0.5rem;
+  background: rgb(0, 68, 216);
+  color: white;
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.esqueceu {
+  background: white;
+  border: none;
+  border-radius: 0.2rem;
+  padding: 1rem;
+  width: 97%;
+  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.nova {
+  background: #12a454;
+  border: 1px solid black;
+  border-radius: 0.2rem;
+  padding: 1rem;
+  width: 40%;
+  margin-bottom: 0.5rem;
+  margin-left: 120px;
+  margin-top: 0.5rem;
+  align-items: center;
+  justify-content: center;
+}

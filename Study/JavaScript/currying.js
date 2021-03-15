@@ -27,3 +27,5 @@ console.log(soma2(7));
 console.log(soma2(8));
 console.log(soma2(9));
 console.log(soma2(10));
+
+
